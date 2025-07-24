@@ -9,13 +9,7 @@ Bu Python projesi, kayıt olma, e-posta onaylama ve şifre değiştirme işlemle
 - E-posta onaylama ve şifre değiştirme işlemlerini simüle eder.
 - Gerçek bir kayıt veya güvenlik işlemi yoktur, sadece örnek olarak hazırlanmıştır.
 
-## Kullanım
-
-```bash
-python hesap_kayit.py
-```
-
-## Not
+## Notlar
 
 Bu proje eğitim ve örnek amaçlıdır. Gerçek kullanıcı verisi veya güvenlik sağlamaz.
 
